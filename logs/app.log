@@ -1,0 +1,174 @@
+2024-07-10 05:08:35 INFO  Exercise1Application:50 - Starting Exercise1Application using Java 17.0.10 with PID 4592 (D:\Java\Facenet\demo (2)\demo\target\classes started by Admin in D:\Java\Facenet\demo (2)\demo)
+2024-07-10 05:08:35 INFO  Exercise1Application:654 - No active profile set, falling back to 1 default profile: "default"
+2024-07-10 05:08:36 INFO  RepositoryConfigurationDelegate:143 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-10 05:08:36 INFO  RepositoryConfigurationDelegate:211 - Finished Spring Data repository scanning in 120 ms. Found 2 JPA repository interfaces.
+2024-07-10 05:08:37 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2024-07-10 05:08:37 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-10 05:08:37 INFO  StandardService:173 - Starting service [Tomcat]
+2024-07-10 05:08:37 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-10 05:08:37 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2024-07-10 05:08:37 INFO  ServletWebServerApplicationContext:296 - Root WebApplicationContext: initialization completed in 2207 ms
+2024-07-10 05:08:37 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-10 05:08:37 INFO  Version:44 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-10 05:08:37 INFO  RegionFactoryInitiator:50 - HHH000026: Second-level cache disabled
+2024-07-10 05:08:38 INFO  SpringPersistenceUnitInfo:87 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-10 05:08:38 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
+2024-07-10 05:08:39 INFO  HikariPool:554 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2444c3df
+2024-07-10 05:08:39 INFO  HikariDataSource:122 - HikariPool-1 - Start completed.
+2024-07-10 05:08:41 INFO  JtaPlatformInitiator:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-10 05:08:41 INFO  LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 05:08:41 INFO  QueryEnhancerFactory:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-10 05:08:42 WARN  JpaBaseConfiguration$JpaWebConfiguration:236 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-10 05:08:42 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-10 05:08:42 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-10 05:08:42 INFO  Exercise1Application:56 - Started Exercise1Application in 8.56 seconds (process running for 10.424)
+2024-07-10 05:09:03 INFO  [/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-10 05:09:03 INFO  DispatcherServlet:532 - Initializing Servlet 'dispatcherServlet'
+2024-07-10 05:09:03 INFO  DispatcherServlet:554 - Completed initialization in 2 ms
+2024-07-10 05:09:26 INFO  FuelService:36 - query: fuels data
+2024-07-10 05:09:26 INFO  FuelService:44 - get fuels data
+2024-07-10 05:09:26 INFO  FuelController:37 - Fuels found
+2024-07-10 05:36:07 INFO  Exercise1Application:50 - Starting Exercise1Application using Java 17.0.10 with PID 16732 (D:\Java\Facenet\demo (2)\demo\target\classes started by Admin in D:\Java\Facenet\demo (2)\demo)
+2024-07-10 05:36:07 INFO  Exercise1Application:654 - No active profile set, falling back to 1 default profile: "default"
+2024-07-10 05:36:08 INFO  RepositoryConfigurationDelegate:143 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-10 05:36:08 INFO  RepositoryConfigurationDelegate:211 - Finished Spring Data repository scanning in 72 ms. Found 2 JPA repository interfaces.
+2024-07-10 05:36:09 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2024-07-10 05:36:09 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-10 05:36:09 INFO  StandardService:173 - Starting service [Tomcat]
+2024-07-10 05:36:09 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-10 05:36:09 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2024-07-10 05:36:09 INFO  ServletWebServerApplicationContext:296 - Root WebApplicationContext: initialization completed in 1811 ms
+2024-07-10 05:36:10 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-10 05:36:10 INFO  Version:44 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-10 05:36:10 INFO  RegionFactoryInitiator:50 - HHH000026: Second-level cache disabled
+2024-07-10 05:36:10 INFO  SpringPersistenceUnitInfo:87 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-10 05:36:10 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
+2024-07-10 05:36:11 INFO  HikariPool:554 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2d459bda
+2024-07-10 05:36:11 INFO  HikariDataSource:122 - HikariPool-1 - Start completed.
+2024-07-10 05:36:12 INFO  JtaPlatformInitiator:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-10 05:36:12 INFO  LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 05:36:12 INFO  QueryEnhancerFactory:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-10 05:36:13 WARN  JpaBaseConfiguration$JpaWebConfiguration:236 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-10 05:36:13 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-10 05:36:14 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-10 05:36:14 INFO  Exercise1Application:56 - Started Exercise1Application in 6.811 seconds (process running for 8.278)
+2024-07-10 05:36:27 INFO  [/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-10 05:36:27 INFO  DispatcherServlet:532 - Initializing Servlet 'dispatcherServlet'
+2024-07-10 05:36:27 INFO  DispatcherServlet:554 - Completed initialization in 4 ms
+2024-07-10 05:36:28 INFO  FuelService:43 - query: fuels data
+2024-07-10 05:36:28 INFO  FuelService:52 - get fuels data
+2024-07-10 05:36:28 INFO  FuelController:36 - Fuels found
+2024-07-10 05:36:32 INFO  FuelService:68 - query: fuels data
+2024-07-10 05:36:32 INFO  FuelService:78 - get fuels data
+2024-07-10 05:36:32 INFO  FuelService:68 - query: fuels data
+2024-07-10 05:36:32 INFO  FuelService:78 - get fuels data
+2024-07-10 05:36:32 INFO  FuelService:68 - query: fuels data
+2024-07-10 05:36:32 INFO  FuelService:78 - get fuels data
+2024-07-10 05:36:32 INFO  FuelController:55 - statistics: done
+2024-07-10 05:37:10 INFO  LocalContainerEntityManagerFactoryBean:650 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 05:37:10 INFO  HikariDataSource:349 - HikariPool-1 - Shutdown initiated...
+2024-07-10 05:37:10 INFO  HikariDataSource:351 - HikariPool-1 - Shutdown completed.
+2024-07-10 05:37:13 INFO  Exercise1Application:50 - Starting Exercise1Application using Java 17.0.10 with PID 18348 (D:\Java\Facenet\demo (2)\demo\target\classes started by Admin in D:\Java\Facenet\demo (2)\demo)
+2024-07-10 05:37:13 INFO  Exercise1Application:654 - No active profile set, falling back to 1 default profile: "default"
+2024-07-10 05:37:14 INFO  RepositoryConfigurationDelegate:143 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-10 05:37:14 INFO  RepositoryConfigurationDelegate:211 - Finished Spring Data repository scanning in 78 ms. Found 2 JPA repository interfaces.
+2024-07-10 05:37:15 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2024-07-10 05:37:15 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-10 05:37:15 INFO  StandardService:173 - Starting service [Tomcat]
+2024-07-10 05:37:15 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-10 05:37:15 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2024-07-10 05:37:15 INFO  ServletWebServerApplicationContext:296 - Root WebApplicationContext: initialization completed in 1752 ms
+2024-07-10 05:37:16 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-10 05:37:16 INFO  Version:44 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-10 05:37:16 INFO  RegionFactoryInitiator:50 - HHH000026: Second-level cache disabled
+2024-07-10 05:37:16 INFO  SpringPersistenceUnitInfo:87 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-10 05:37:16 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
+2024-07-10 05:37:17 INFO  HikariPool:554 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3c743d40
+2024-07-10 05:37:17 INFO  HikariDataSource:122 - HikariPool-1 - Start completed.
+2024-07-10 05:37:18 INFO  JtaPlatformInitiator:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-10 05:37:18 INFO  LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 05:37:18 INFO  QueryEnhancerFactory:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-10 05:37:19 WARN  JpaBaseConfiguration$JpaWebConfiguration:236 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-10 05:37:20 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-10 05:37:20 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-10 05:37:20 INFO  Exercise1Application:56 - Started Exercise1Application in 6.771 seconds (process running for 8.234)
+2024-07-10 05:37:24 INFO  [/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-10 05:37:24 INFO  DispatcherServlet:532 - Initializing Servlet 'dispatcherServlet'
+2024-07-10 05:37:24 INFO  DispatcherServlet:554 - Completed initialization in 2 ms
+2024-07-10 05:37:24 INFO  FuelService:68 - query: fuels data
+2024-07-10 05:37:24 INFO  FuelService:78 - get fuels data
+2024-07-10 05:37:24 INFO  FuelService:68 - query: fuels data
+2024-07-10 05:37:24 INFO  FuelService:78 - get fuels data
+2024-07-10 05:37:24 INFO  FuelService:68 - query: fuels data
+2024-07-10 05:37:24 INFO  FuelService:78 - get fuels data
+2024-07-10 05:37:24 INFO  FuelController:55 - statistics: done
+2024-07-10 05:37:45 INFO  LocalContainerEntityManagerFactoryBean:650 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 05:37:45 INFO  HikariDataSource:349 - HikariPool-1 - Shutdown initiated...
+2024-07-10 05:37:45 INFO  HikariDataSource:351 - HikariPool-1 - Shutdown completed.
+2024-07-10 06:17:49 INFO  Exercise1Application:50 - Starting Exercise1Application using Java 17.0.10 with PID 16772 (D:\Java\Facenet\demo (2)\demo\target\classes started by Admin in D:\Java\Facenet\demo (2)\demo)
+2024-07-10 06:17:49 INFO  Exercise1Application:654 - No active profile set, falling back to 1 default profile: "default"
+2024-07-10 06:17:50 INFO  RepositoryConfigurationDelegate:143 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-10 06:17:50 INFO  RepositoryConfigurationDelegate:211 - Finished Spring Data repository scanning in 71 ms. Found 2 JPA repository interfaces.
+2024-07-10 06:17:51 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2024-07-10 06:17:51 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-10 06:17:51 INFO  StandardService:173 - Starting service [Tomcat]
+2024-07-10 06:17:51 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-10 06:17:51 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2024-07-10 06:17:51 INFO  ServletWebServerApplicationContext:296 - Root WebApplicationContext: initialization completed in 1722 ms
+2024-07-10 06:17:51 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-10 06:17:51 INFO  Version:44 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-10 06:17:51 INFO  RegionFactoryInitiator:50 - HHH000026: Second-level cache disabled
+2024-07-10 06:17:51 INFO  SpringPersistenceUnitInfo:87 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-10 06:17:52 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
+2024-07-10 06:17:52 INFO  HikariPool:554 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@41f686af
+2024-07-10 06:17:52 INFO  HikariDataSource:122 - HikariPool-1 - Start completed.
+2024-07-10 06:17:53 INFO  JtaPlatformInitiator:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-10 06:17:53 INFO  LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 06:17:54 INFO  QueryEnhancerFactory:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-10 06:17:55 WARN  JpaBaseConfiguration$JpaWebConfiguration:236 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-10 06:17:55 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-10 06:17:55 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-10 06:17:55 INFO  Exercise1Application:56 - Started Exercise1Application in 6.817 seconds (process running for 8.324)
+2024-07-10 06:17:56 INFO  [/]:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-07-10 06:17:56 INFO  DispatcherServlet:532 - Initializing Servlet 'dispatcherServlet'
+2024-07-10 06:17:56 INFO  DispatcherServlet:554 - Completed initialization in 1 ms
+2024-07-10 06:17:56 INFO  FuelService:69 - query: fuels data
+2024-07-10 06:17:56 INFO  FuelService:79 - get fuels data
+2024-07-10 06:17:56 INFO  FuelService:69 - query: fuels data
+2024-07-10 06:17:56 INFO  FuelService:79 - get fuels data
+2024-07-10 06:17:56 INFO  FuelService:69 - query: fuels data
+2024-07-10 06:17:56 INFO  FuelService:79 - get fuels data
+2024-07-10 06:17:56 INFO  FuelController:55 - statistics: done
+2024-07-10 06:18:00 INFO  FuelService:43 - query: fuels data
+2024-07-10 06:18:00 INFO  FuelService:52 - get fuels data
+2024-07-10 06:18:00 INFO  FuelController:36 - Fuels found
+2024-07-10 06:18:04 INFO  LocalContainerEntityManagerFactoryBean:650 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 06:18:04 INFO  HikariDataSource:349 - HikariPool-1 - Shutdown initiated...
+2024-07-10 06:18:04 INFO  HikariDataSource:351 - HikariPool-1 - Shutdown completed.
+2024-07-10 09:21:02 INFO  Exercise1Application:50 - Starting Exercise1Application using Java 17.0.10 with PID 13204 (D:\Java\Facenet\demo (2)\demo\target\classes started by Admin in D:\Java\Facenet\demo (2)\demo)
+2024-07-10 09:21:02 INFO  Exercise1Application:654 - No active profile set, falling back to 1 default profile: "default"
+2024-07-10 09:21:02 INFO  RepositoryConfigurationDelegate:143 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-07-10 09:21:02 INFO  RepositoryConfigurationDelegate:211 - Finished Spring Data repository scanning in 39 ms. Found 2 JPA repository interfaces.
+2024-07-10 09:21:03 INFO  TomcatWebServer:111 - Tomcat initialized with port 8080 (http)
+2024-07-10 09:21:03 INFO  Http11NioProtocol:173 - Initializing ProtocolHandler ["http-nio-8080"]
+2024-07-10 09:21:03 INFO  StandardService:173 - Starting service [Tomcat]
+2024-07-10 09:21:03 INFO  StandardEngine:173 - Starting Servlet engine: [Apache Tomcat/10.1.25]
+2024-07-10 09:21:03 INFO  [/]:173 - Initializing Spring embedded WebApplicationContext
+2024-07-10 09:21:03 INFO  ServletWebServerApplicationContext:296 - Root WebApplicationContext: initialization completed in 955 ms
+2024-07-10 09:21:03 INFO  LogHelper:31 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-07-10 09:21:03 INFO  Version:44 - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-07-10 09:21:03 INFO  RegionFactoryInitiator:50 - HHH000026: Second-level cache disabled
+2024-07-10 09:21:03 INFO  SpringPersistenceUnitInfo:87 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-07-10 09:21:03 INFO  HikariDataSource:109 - HikariPool-1 - Starting...
+2024-07-10 09:21:04 INFO  HikariPool:554 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@792e8181
+2024-07-10 09:21:04 INFO  HikariDataSource:122 - HikariPool-1 - Start completed.
+2024-07-10 09:21:04 INFO  JtaPlatformInitiator:59 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-07-10 09:21:04 INFO  LocalContainerEntityManagerFactoryBean:437 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 09:21:05 INFO  QueryEnhancerFactory:49 - Hibernate is in classpath; If applicable, HQL parser will be used.
+2024-07-10 09:21:05 WARN  JpaBaseConfiguration$JpaWebConfiguration:236 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-07-10 09:21:05 INFO  Http11NioProtocol:173 - Starting ProtocolHandler ["http-nio-8080"]
+2024-07-10 09:21:05 INFO  TomcatWebServer:243 - Tomcat started on port 8080 (http) with context path '/'
+2024-07-10 09:21:05 INFO  Exercise1Application:56 - Started Exercise1Application in 3.597 seconds (process running for 4.457)
+2024-07-10 09:21:09 INFO  LocalContainerEntityManagerFactoryBean:650 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-07-10 09:21:09 INFO  HikariDataSource:349 - HikariPool-1 - Shutdown initiated...
+2024-07-10 09:21:09 INFO  HikariDataSource:351 - HikariPool-1 - Shutdown completed.
